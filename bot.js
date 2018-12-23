@@ -2,7 +2,10 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const prefix = "$";
 const Canvas = require("canvas");
-
+const fs = require('fs');
+const moment = require('moment');
+const sql = require('sqlite');
+const ms = require('ms');
 
 // ========================================== [ CONSTRUCTERS ] =========================================
 
