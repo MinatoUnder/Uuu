@@ -163,7 +163,7 @@ client.on("message", async message => {
         let help = new Discord.RichEmbed()
             .setColor("RANDOM")
             .setThumbnail(message.author.avatarURL)
-            .setDescription(`**__برودكاست بوت | Version 1.1__ 
+            .setDescription(`**__Univers Design© | World Of Designers__ 
 
             Normal brodcast everyone + Montion  : ${prefix}bc1
             Normal brodcast online + Montion : ${prefix}bc2
