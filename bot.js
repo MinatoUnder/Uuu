@@ -6,6 +6,7 @@ const fs = require('fs');
 const moment = require('moment');
 const sql = require('sqlite');
 const ms = require('ms');
+const jimp = require('jimp');
 
 // ========================================== [ CONSTRUCTERS ] =========================================
 
